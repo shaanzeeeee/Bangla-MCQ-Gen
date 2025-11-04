@@ -1,0 +1,23 @@
+streamlit
+transformers
+torch==2.7.1
+sentencepiece==0.2.0 --prefer-binary
+protobuf
+faiss-cpu
+sentence-transformers
+openai
+opencv-python
+pillow
+python-dotenv
+streamlit
+numpy
+pandas
+scikit-learn
+# (and any other packages your app needs)
+opencv-python
+numpy
+opencv-python
+numpy
+opencv-python-headless
+numpy
+pytesseract
