@@ -21,7 +21,7 @@ os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
 # ─── STREAMLIT UI SETUP ────────────────────────────────────────────────────────
 st.set_page_config(page_title="Bangla QA RAG App", layout="wide")
-st.title("Welcome to my RAG‑powered Bangla QA/MCQ App!")
+st.title("Welcome to Uttor Dao")
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 embed_model_name = "l3cube-pune/bengali-sentence-similarity-sbert"
